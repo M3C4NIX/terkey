@@ -1,3 +1,6 @@
+# ini cuma shortcut buat bantu para nub
+# wk belajar makanya jangan cuma recode KONTOL
+# GW juga belajar dari karjok 
 import os
 from time import sleep
 import socket,struct,time,os,sys
